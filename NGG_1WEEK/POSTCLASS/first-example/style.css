@@ -133,7 +133,7 @@ th:last-child{
     background-color: rgb(41, 59, 13);
 }
 a:link {
-    color: red;
+    color: rgb(122, 98, 98);
 }
 p::first-letter {
     font-size: 150%;
