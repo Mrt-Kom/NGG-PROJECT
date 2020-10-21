@@ -1,0 +1,18 @@
+.landscape {
+    display: grid;
+    grid-template-columns: repeat(4, 250px);
+    grid-template-rows: repeat(3, 200px);
+    grid-gap: 10px;
+  }
+  
+  .landscape img {
+    width: 250px;
+    height: 200px;
+    object-fit: cover;
+  }
+    
+  body {
+    margin: 40px auto;
+    padding: 0;
+    width: 960px;
+  }
